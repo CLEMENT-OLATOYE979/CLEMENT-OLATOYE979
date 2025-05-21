@@ -9,7 +9,7 @@ I'm a passionate **[Junior sofware developer / Backend engineer]** with experien
 - 🌱 Currently learning: **[Python with flask and django]**
 - 🔭 Working on: **[AI powered smart car pooling system]**
 - 🌍 Languages: **[Python, Java, JavaScript, React js and English proficient]**
-- 📫 How to reach me: **[olatoyeclement@gmail.com]**
+- 📫 How to reach me: **[olatoyeclement531@gmail.com]**
 - ⚡ Fun fact: **[I am a clown]**
 
 ## My Skills 🧠
